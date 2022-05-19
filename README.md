@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weekly FullStack Course Projects**
 
-- 🌱 I’m currently learning **Fullstack Development with ReactJS and NodeJS**
+- 🌱 I’m currently learning **Fullstack Development with ReactJS**
 
 - 👯 I’m looking to collaborate on **Work with Web Development**
 
