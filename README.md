@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcele Montalvão</h1>
-<h3 align="center">A passionate student of Bootcamp FullStack Web Development in Driven Education and in graduation of Analysis and Systems Development in FIAP(Faculdade de Informática e Administração Paulista)</h3>
+<h3 align="center">A passionate student of Bootcamp FullStack Web Development and in graduation of Analysis and Systems Development in FIAP(Faculdade de Informática e Administração Paulista)</h3>
 
 - 🔭 I’m currently working on **Weekly FullStack Course Projects**
 
