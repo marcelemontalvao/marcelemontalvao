@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcelemontalvao](https://github.com/marcelemontalvao)
 
-- 💬 Ask me about **HTML, CSS ,JavaScript,React, Java, SpringBoot**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, SpringBoot**
 
 - 📫 How to reach me **mmontalvaoblog@outlook.com**
 
