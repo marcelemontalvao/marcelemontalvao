@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Weekly FullStack Course Projects**
 
-- 🌱 I’m currently learning **Fullstack Development with NodeJS and Express**
+- 🌱 I’m currently learning **Fullstack Development with NodeJS, Express and MongoDB**
 
 - 👯 I’m looking to collaborate on **Work with Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcelemontalvao](https://github.com/marcelemontalvao)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, SpringBoot**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, SpringBoot, Node, Express**
 
 - 📫 How to reach me **mmontalvaoblog@outlook.com**
 
