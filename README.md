@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcele Montalvão</h1>
 <h3 align="center">A passionate student of Bootcamp FullStack Web Development and in graduation of Analysis and Systems Development in FIAP(Faculdade de Informática e Administração Paulista)</h3>
 
-- 🔭 I’m currently working on **Weekly FullStack Course Projects**
+- 🔭 I’m currently working on **Fullstack Development with NodeJS and AngularJS**
 
-- 🌱 I’m currently learning **Fullstack Development with NodeJS, Express and PostgreSQL**
+- 🌱 I’m currently learning **Machine Learning and Azure Cloud**
 
 - 👯 I’m looking to collaborate on **Work with Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcelemontalvao](https://github.com/marcelemontalvao)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, SpringBoot, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, Node, Express**
 
 - 📫 How to reach me **mmontalvaoblog@outlook.com**
 
