@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack Development with NodeJS and AngularJS**
 
-- 🌱 I’m currently learning **Machine Learning and Azure Cloud**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 👯 I’m looking to collaborate on **Work with Web Development**
 
